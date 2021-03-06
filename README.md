@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 ![](https://github-readme-stats.vercel.app/api?username=sthagen&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=112034)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthagen&hide=html&langs_count=10&layout=compact&theme=highcontrast&hide_border=true&bg_color=112034)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthagen&hide=html&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&bg_color=112034)
 
 <!--
 **sthagen/sthagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
