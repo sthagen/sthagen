@@ -1,6 +1,2 @@
-<!--![Stefans' github stats](https://github-readme-stats.vercel.app/api?username=sthagen)-->
-<!--![](https://github-readme-stats.vercel.app/api?username=sthagen&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=112034)-->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthagen&hide=html&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&bg_color=112034)-->
-Stefan is a name.<br>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=sthagen&show_icons=true" />-->
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthagen&layout=compact&theme=highcontrast&hide_border=true&bg_color=112034" />-->
+Git is a decentralized version control system and any clone can become the origin for free and open software.
+There is no golden central server cage for code.
